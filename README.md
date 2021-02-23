@@ -1,2 +1,2 @@
-# pihole
-A List of custom domains that i block
+# Pi-hole
+A List of custom domains that I block
